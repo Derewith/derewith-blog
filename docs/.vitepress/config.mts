@@ -44,5 +44,5 @@ export default defineConfig({
       ...readFileList("2025", "02")
     ]
   },
-  base: "/"
+  base: "/derewith-blog/"
 })
